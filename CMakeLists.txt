@@ -14,7 +14,7 @@ include_directories(SYSTEM
 
 add_executable(executable
 
-            lab1.1.cpp
+            sr2.cpp
 
 )
 
